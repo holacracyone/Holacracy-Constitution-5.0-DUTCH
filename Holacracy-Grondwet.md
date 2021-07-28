@@ -465,6 +465,6 @@ Een Procesverstoring in één Cirkel wordt niet automatisch beschouwd als een Pr
 
 ---
 
-Holacracy is een handelsmerk van HolacracyOne, LLC. Deze vertaling wordt gedeeld volgens dezelfde licentie als de oorspronkelijke Grondwet, namelijk een <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Holacracy is een handelsmerk van HolacracyOne, LLC. Deze vertaling wordt gedeeld volgens dezelfde licentie als de oorspronkelijke Grondwet, namelijk een <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.nl">Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationale Licentie</a>.
 
 ---

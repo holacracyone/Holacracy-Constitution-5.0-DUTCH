@@ -1,18 +1,18 @@
-#### I'm newer to Holacracy. How should I use this platform? Are the discussions on here useful to me?
+#### Ik weet nog niet zo veel van Holacracy. Hoe kan ik dit platform gebruiken? Zijn de discussies die hier gevoerd worden relevant voor mij?
 
-You should probably ignore everything you see here on GitHub. The writing and engagement here is not meant for the wider audience of Holacracy users, and may be seriously confusing if you're not already a skilled Holacracy practitioner. Instead, try the Holacracy Community of Practice: http://community.holacracy.org.
+Je kunt de discussies die hier op GitHub gevoerd worden waarschijnlijk het beste compleet negeren. De teksten en discussies op GitHub zijn niet bedoeld voor het bredere publiek van Holacracy-gebruikers. Als je nog geen ervaren Holacracy-beoefenaar bent, zijn ze eerder verwarrend dan verhelderend. Je hebt waarschijnlijk meer aan de Holacracy Community of Practice: http://community.holacracy.org.
 
-#### Is the version of the Holacracy Constitution here on GitHub the official version I should use?
+#### Is de versie van de Holacracy Grondwet die hier op GitHub staat de officiële versie die ik moet gebruiken?
 
-No. This platform is to support Holacracy developers working on the next version of the Holacracy operating system, and the version you see here is the latest "under development" version - if this were software, it wouldn't even be released as an "alpha" or "beta" release yet, let alone a new version. You can find the official released version at http://holacracy.org/constitution.
+Nee. Dit platform is bedoeld om Holacracy-ontwikkelaars te helpen om de volgende versie van het Holacracy besturingsmodel te ontwikkelen. De versie die je hier ziet is de meest actuele versie die nu in ontwikkeling is - als dit software zou zijn, zou het nog niet eens een "alpha-" of "beta-versie" zijn, laat staan een afgeronde nieuwe versie. Je kunt de meest recente officiële versie vinden op http://holacracy.org/constitution.
 
-#### I see you changed a rule in the Constitution here in GitHub; should my company start relying on the new rule?
+#### Ik zie dat je een regel in de Grondwet hebt aangepast hier op GitHub. Moet onze organisatie deze regel nu gaan toepassen?
 
-No. the version you see here is the latest "under development" version (see prior question). You should only rely on rules in the version of the Constitution that your organization officially adopted.
+Nee. De versie die je hier ziet is de meest actuele "ontwikkelingsversie" (zie vorige vraag). Je hoeft je alleen iets aan te trekken van de regels in de versie van de Grondwet die door jou organisatie officieel is aangenomen.
 
-#### I know Holacracy well, but I’m not very tech savvy. How do I use GitHub to contribute to evolving Holacracy?
+#### Ik ben behoorlijk bekend met Holacracy, maar niet met GitHub. Hoe gebruik ik GitHub om een bijdrage te leveren aan de verdere ontwikkeling van Holacracy?
 
-You can start by orienting yourself with these basic resources about Version (Revision) Control in Open Source development and GitHub basics. 
+Je kunt beginnen door je te oriënteren op basis van de volgende artikelen over versiebeheer in open source-ontwikkeling en over hoe GitHub werkt:
 
 - http://en.wikipedia.org/w/index.php?title=Revision_control
 - https://help.github.com/articles/fork-a-repo

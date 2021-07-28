@@ -1,9 +1,9 @@
-#### Discussions are available here for participants to discuss changes, issues, or other tensions related to the Holacracy Constitution. 
+#### Je kunt hier bijdragen doen en discussies starten over wijzigingen, ideeën en spanningen m.b.t. de Holacracy Grondwet
 
-Navigate <a href="https://github.com/holacracyone/Holacracy-Constitution/issues" target="_blank">Here</a> and click on the green "New Issue" button. 
+Ga <a href="https://github.com/holacracyone/Holacracy-Constitution-5.0-DUTCH/issues" target="_blank">hier</a> naartoe en klik op de groene "New issue"-knop. 
 
-Title your discussion and describe your points and click on "Submit new issue". 
+Geef je bijdrage een naam, beschrijf waar je het over wilt hebben en klik dan op "Submit new issue". 
 
-Depending on your settings you'll get notifications about activity on your submission. 
+Afhankelijk van je instellingen krijg je meldingen als er iemand reageert op je bijdrage.
 
-Thanks for participating. 
+Bedankt voor het meedenken!

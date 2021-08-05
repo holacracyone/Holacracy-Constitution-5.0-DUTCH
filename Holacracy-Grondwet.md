@@ -179,7 +179,7 @@ Elke Partner mag een ***“Werkoverleg”*** organiseren om Partners te helpen e
 
 Voor de regelmatige Werkoverleggen die door de Secretaris van de Cirkel worden georganiseerd zijn alle Rollen van de Cirkel uitgenodigd, tenzij een Werkafspraak iets anders bepaalt. Voor andere Werkoverleggen moet de Partner die ze organiseert aangeven welke Rollen uitgenodigd zijn. Alle Partners die Rol Lead zijn van de genodigde Rollen hebben het recht om deel te nemen en die Rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol Leads van een Rol.
 
-### 3.2 Overlegproces
+### 3.2 Overlegvorm
 
 De Facilitator van een Cirkel is verantwoordelijk voor het faciliteren van de regelmatige Werkoverleggen van de Cirkel en de Secretaris voor het vastleggen en delen van de uitkomsten van het Werkoverleg. Voor Werkoverleggen die worden georganiseerd door iemand anders dan de Secretaris van een Cirkel moet de Partner die ze organiseert ze faciliteren en de uitkomsten vastleggen, of daar een vrijwilliger of passende Rol voor zoeken.
 
@@ -407,7 +407,7 @@ Roloverleggen zijn klaar wanneer de oorspronkelijke door de Secretaris geplande 
 
 Als een Cirkellid een Roloverleg geheel of gedeeltelijk mist, wordt dat beschouwd als dat hij of zij de kans heeft gehad om zorgen te delen met betrekking tot alle Voorstellen die gedaan zijn. Een Cirkel mag daarom Voorstellen aannemen in een Roloverleg zonder rekening te houden met afwezige leden.
 
-#### 5.4.3 Vergaderproces
+#### 5.4.3 Overlegvorm
 
 De Facilitator moet het volgende proces gebruiken voor Roloverleggen:
 
@@ -415,7 +415,7 @@ De Facilitator moet het volgende proces gebruiken voor Roloverleggen:
 - **(b) Agenda-opbouw & Behandelen:** De Facilitator stelt een agenda op van de te behandelen Spanningen en behandelt ze vervolgens een voor een.
 - **(c) Check-out:** Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
 
-Een deelnemer mag op elk moment tijdens dit proces een verzoek om een ***“Time Out”*** doen. De Facilitator mag er voor kiezen om dit verzoek in te willigen of te weigeren. Gedurende de Time Out mogen deelnemers administratieve zaken of regels in deze Grondwet bespreken. Ze mogen de Time Out niet gebruiken om aan een Spanning, Voorstel of Bezwaar te werken. De Facilitator mag een Time Out op elk moment beëindigen en het normale vergaderproces hervatten.
+Een deelnemer mag op elk moment tijdens dit proces een verzoek om een ***“Time Out”*** doen. De Facilitator mag er voor kiezen om dit verzoek in te willigen of te weigeren. Gedurende de Time Out mogen deelnemers administratieve zaken of regels in deze Grondwet bespreken. Ze mogen de Time Out niet gebruiken om aan een Spanning, Voorstel of Bezwaar te werken. De Facilitator mag een Time Out op elk moment beëindigen en het normale proces hervatten.
 
 Een Werkafspraak van de Cirkel mag toevoegingen doen aan dit proces, maar mag niet in strijd zijn met de in dit Artikel beschreven regels of eisen.
 

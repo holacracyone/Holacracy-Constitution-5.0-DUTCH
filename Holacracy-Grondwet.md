@@ -425,7 +425,7 @@ De Facilitator stelt een agenda van te behandelen Spanningen op door alle deelne
 
 Bij een normaal Roloverleg mag de Facilitator kiezen in welke volgorde de agendapunten worden behandeld. Als een deelnemer daartoe verzoekt moet de Facilitator echter agendapunten die een verkiezing vereisen voorrang geven boven alle andere agendapunten. Bij een speciaal Roloverleg dat op verzoek van een deelnemer is gepland, mag die deelnemer de volgorde van de agenda bepalen.
 
-Agendapunten worden een voor een behandeld. Voor een verzoek om een verkiezing gebruikt de Facilitator het Integratieve Verkiezingsproces. Voor al het andere gebruikt de Facilitator het hieronder beschreven Integratieve Besluitvormingsproces
+Agendapunten worden een voor een behandeld. Voor een verzoek om een verkiezing gebruikt de Facilitator het Integratieve Verkiezingsproces. Voor al het andere gebruikt de Facilitator het hieronder beschreven Integratieve Besluitvormingsproces.
 
 #### 5.4.5 Integratieve Besluitvormingsproces
 

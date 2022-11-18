@@ -210,7 +210,7 @@ In het handelen vanuit een Rol mag je geen Werkafspraken van de Rol zelf of van 
 
 #### 4.1.2 Vraag Toestemming voor je Invloed op een Domein Uitoefent
 
-In het handelen vanuit een Rol ben je bevoegd om invloed uit te oefenen op de Domeinen van die Rol te en ze te beheren.
+In het handelen vanuit een Rol ben je bevoegd om invloed uit te oefenen op de Domeinen van die Rol en ze te beheren.
 
 Je mag verder invloed uitoefenen op elk Domein van een van de Supercirkels van je Rol, zo lang dat Domein niet verder gedelegeerd is, of op elk Domein waar de betreffende Cirkel zelf invloed op mag uitoefenen. Als je echter inschat dat jouw handelen binnen een Domein moeilijk ongedaan te maken zou zijn of dat dat kostbaar zou zijn, dan moet je om toestemming vragen.
 

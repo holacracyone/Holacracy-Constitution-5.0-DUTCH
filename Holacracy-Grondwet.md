@@ -100,7 +100,7 @@ De Ankercirkel kent geen Cirkel Leads, tenzij anders bepaald in een Werkafspraak
 
 #### 1.4.1 Toewijzen van Rollen
 
-Een Cirkel Lead beheert de toewijzing van Rollen binnen de Cirkel en mag elke Rol toewijzen aan iemand die bereid is deze te vervullen, alsook aan meer mensen tegelijk. Iedereen die een Rol toegewezen krijgt mag deze later teruggeven, tenzij anders bepaald. Een Cirkel Lead mag de toewijzing van elke Rol binnen de Cirkel op elk moment weer herzien.
+Een Cirkel Lead beheert de toewijzing van Rollen binnen de Cirkel en mag iedere Rol toewijzen aan iemand die bereid is deze te vervullen, ook aan meer mensen tegelijk. Iedereen die een Rol toegewezen krijgt mag deze later teruggeven, tenzij anders bepaald. Een Cirkel Lead mag de toewijzing van elke Rol binnen de Cirkel op elk moment weer herzien.
 
 Een Cirkel Lead mag een roltoewijzing beperken door deze te focussen op een bepaald gebied. Daarbij moet de volledige rolbeschrijving van toepassing zijn op dat gebied. Wanneer een focus wordt aangebracht, gedraagt iedere toegewezen focus zich als aparte Rol. De Purpose, Domeinen en Verantwoordelijkheden van de Rol blijven van toepassing, maar alleen binnen de toegewezen focus.
 
